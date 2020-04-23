@@ -1,0 +1,5 @@
+python3 hw2.py <path_to_input_file>
+
+Output is printed to the console as well as to two files:
+output_model_based.txt
+output_model_free.txt
