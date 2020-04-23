@@ -168,8 +168,8 @@ def model_free_solve(delta, epsilon):
 
 if __name__ == "__main__":
     random.seed()
-    #f = open(str(sys.argv[1]), "r")
-    f = open("test.txt", "r")
+    f = open(str(sys.argv[1]), "r")
+    #f = open("test.txt", "r")
     global true_probs
     true_probs = {}
     for line in f:
